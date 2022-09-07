@@ -2,7 +2,7 @@
 
 To check available symbols for character ID in [The Elder Scrolls Online](https://www.elderscrollsonline.com/en-us/home).
 
-It uses form of creating new character on the official website to check if @ID is can be created ad if yes, it marked character as available. List of valid characters for @ID:
+It uses form of creating new character on the official website to check if @ID can be created and if yes, marks it as available. List of valid characters for @ID:
 ```
 À	Â	Ä	Æ	Ç	È	É	Ê	Ë	Î	
 Ï	Ô	Ö	Ù	Û	Ü	ß	à	â	ä	
